@@ -1,16 +1,94 @@
-## Hi there 👋
+# 🧑🏻‍💻 Michael Nascimento
 
-<!--
-**michaelnascimento-dev/michaelnascimento-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudante de Programação Backend`**
 
-Here are some ideas to get you started:
+Me chamo Michael Souza do Nascimento, tenho 19 anos e sou natural de São Paulo.  
+Atualmente curso Análise e Desenvolvimento de Sistemas na UNICID e estou em busca da minha primeira oportunidade como programador estagiário.  
+Tenho foco em desenvolvimento backend, especialmente na criação de APIs RESTful, mas também possuo conhecimentos em frontend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-nascimento-675847277/)
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img
+align="left"
+alt="Java"
+title="Java"
+width=60px
+style="padding-right:10px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+<img
+align="left"
+alt="Spring Boot"
+title="Spring Boot"
+width=60px
+style="padding-right:10px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+/>
+<img
+align="left"
+alt="MySQL"
+title="MySQL"
+width=60px
+style="padding-right:10px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+/>
+<img
+align="left"
+alt="Git"
+title="Git"
+width=60px
+style="padding-right:10px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+<img
+align="left"
+alt="HTML"
+title="HTML"
+width=60px
+style="padding-right:10px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
+<img
+align="left"
+alt="CSS"
+title="CSS"
+width=60px
+style="padding-right:10px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
+<img
+align="left"
+alt="Javascript"
+title="Javascript"
+width=60px
+style="padding-right:10px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+
+<br/>
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img
+    align="left"
+    alt="Github Stats"
+    height="200"
+    style="padding-right:10px"
+    src="https://github-readme-stats.vercel.app/api?username=michaelnascimento-dev&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"
+  />
+
+  <img
+    align="left"
+    alt="Github Stats"
+    height="200"
+    style="padding-right:10px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelnascimento-dev&theme=dark&locale=pt-br"
+  />
+</p>
